@@ -1,4 +1,4 @@
-public abstract class GeometricFigure {
+public class GeometricFigure {
     public float area(){
         return 0;
     }
